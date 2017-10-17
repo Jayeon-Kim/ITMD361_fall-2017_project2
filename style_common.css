@@ -49,7 +49,7 @@ table {
 /*end reset*/
 
 /*start common */
-
+/*p h1,h2,h3,h4 css*/
 p{
 	font-family: 'Balthazar', serif;
 	font-size:20px;
@@ -74,6 +74,8 @@ h4{
 	font-family: 'Anton', sans-serif;
 	font-size:15px; 
 }
+
+/*nav css*/
 nav#link{
 	background-color:black; 
 	margin-bottom:20px; 

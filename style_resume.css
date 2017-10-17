@@ -14,3 +14,8 @@ div#resumebody{
 .resumedetail{
 	margin-bottom:5%;
 }
+#profile li{
+	padding:10px 10px;
+	font-family: 'Balthazar', serif;
+	font-size:20px;
+}

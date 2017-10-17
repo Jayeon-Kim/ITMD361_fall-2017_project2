@@ -2,6 +2,7 @@
 	width:500px;
 	height:200px;
 	float:left;
+	margin-bottom:20px;
 }
 div#section1{
 	width:40%;
@@ -17,7 +18,9 @@ font-family: 'Anton', sans-serif;
 font-size: 15px;
 }
 .audioplay{
+	margin:10px;
 	margin-right:2%; 
+	margin-bottom:10px;
 }
 
 

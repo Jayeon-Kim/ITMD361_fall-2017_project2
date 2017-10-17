@@ -1,7 +1,12 @@
 .travelphoto{
 	height:350px;
-}
+	margin-right:10px;
+	}
 .travelname{
 	font-family: 'Anton', sans-serif;
 	
+}
+#travelingintro
+{
+	margin-bottom:20px;
 }

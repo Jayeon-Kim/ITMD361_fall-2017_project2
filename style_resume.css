@@ -1,0 +1,16 @@
+#profile_photo{
+	width:200px;
+}
+div#profile{
+	width:20%;
+	float:left;
+	margin-right:1%;
+}
+div#resumebody{
+	width:75%;
+	float:left;
+	margin-top:0;
+}
+.resumedetail{
+	margin-bottom:5%;
+}

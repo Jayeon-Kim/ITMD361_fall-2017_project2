@@ -51,22 +51,28 @@ table {
 /*start common */
 
 p{
-	font-family: 'Anton', sans-serif;
 	font-family: 'Balthazar', serif;
-	font-size:30px;
+	font-size:20px;
 }
 h1{
     font-family: 'Anton', sans-serif;
+	margin:10px;
 	font-size:40px; 	
 }
 h2{
 	font-family: 'Anton', sans-serif;
+	margin:7px;
 	font-size:30px; 
 }
 
 h3{
 	font-family: 'Anton', sans-serif;
+	margin:5px;
 	font-size:20px; 
+}
+h4{
+	font-family: 'Anton', sans-serif;
+	font-size:15px; 
 }
 nav#link{
 	background-color:black; 

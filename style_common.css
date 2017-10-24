@@ -100,7 +100,6 @@ nav#link ul li a{
 	display:block; 
 	background-color:#CEE3F6; 
 	text-decoration:none; 
-	text-align:ceter;
 	font-size:30px; 
 	font-weight:bold; 
 	width:100%; 
@@ -115,4 +114,10 @@ nav#link ul li a:hover{
 }
 .clear {
 	clear: both;
+}
+/*footer style*/
+#footer{
+	background-color:black;
+	font-family:'Anton', sans-serif;
+	font-size:15px;  
 }

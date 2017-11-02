@@ -182,13 +182,12 @@ div#resumebody{
 
 /*start traveling style*/
 .travelphoto{
-	height:350px;
+	height:400px;
 	margin-right:10px;
 	float:left;
 	}
-.travelname{
-	font-family: 'Anton', sans-serif;
-	
+.travelplace{
+	position:relative;
 	
 }
 #travelingintro

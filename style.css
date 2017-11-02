@@ -28,6 +28,7 @@ nav#link{
 	background-color:black; 
 	margin-bottom:20px; 
 	padding:10px 0px;
+	position:relative; 
 }
 nav#link ul{
 	list-style-type: none;
@@ -40,7 +41,7 @@ nav#link ul li{
 	float: left; 
 	margin: 10px 10px; 
 	padding:0px 20px;  
-	
+	float:center; 
 }
 
 nav#link ul li a{
@@ -54,6 +55,7 @@ nav#link ul li a{
 	padding:10px 5px; 
 	border-radius:3px; 
 	color:black;
+	
 
 }
 nav#link ul li a:hover{
@@ -157,3 +159,19 @@ div#resumebody{
 	font-size:20px;
 }
 /*end of resume style*/
+
+
+/*start traveling style*/
+.travelphoto{
+	height:350px;
+	margin-right:10px;
+	}
+.travelname{
+	font-family: 'Anton', sans-serif;
+	
+}
+#travelingintro
+{
+	margin-bottom:20px;
+}
+/*end of traveling style*/

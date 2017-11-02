@@ -41,6 +41,7 @@ nav#link ul{
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
+	position:center;
 }
 
 nav#link ul li{
@@ -101,8 +102,14 @@ nav#link ul li a:hover{
 /*end of index style */
 
 /*start hobbies style */
+.section2_1{
+	border:2px solid black; 
+	width:300px;
+	float:left;
+	margin:5px;
+}
 #firstguitar{
-	width:450px;
+	width:410px;
 	height:230px;
 	float:left;
 	margin-bottom:20px;
@@ -176,9 +183,11 @@ div#resumebody{
 .travelphoto{
 	height:350px;
 	margin-right:10px;
+	float:left;
 	}
 .travelname{
 	font-family: 'Anton', sans-serif;
+	
 	
 }
 #travelingintro

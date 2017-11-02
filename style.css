@@ -71,7 +71,7 @@ nav#link ul li a:hover{
 	font-size:15px;  
 }
 
-/*index style*/
+/*start index style*/
 .city1{
 	height:250px;
 }
@@ -87,6 +87,73 @@ nav#link ul li a:hover{
 	margin:10px;
 	padding:0px; 
 }
-/*index style ends*/
+/*end of index style */
+
+/*start hobbies style */
+#firstguitar{
+	width:450px;
+	height:230px;
+	float:left;
+	margin-bottom:20px;
+	margin-right:20px;
+}
+div#section1{
+	position:relative;
+	width:40%;
+	float:left;
+	margin-right:10px;
+}
+section#section2{
+	position:relative;
+	width:60%;
+	margin-top:0;
+	float:right;
+}
+.song_guitarist_name{
+font-family: 'Anton', sans-serif;
+font-size: 15px;
+padding:5px 0px;
+}
+.audioplay{
+	margin:10px;
+	margin-right:2%; 
+	margin-bottom:10px;
+}
 
 
+.guitarists{
+height:200px;
+margin-right:3px;
+margin-left:3px;
+margin-top:10px;
+margin-bottom:15px;
+}
+
+#sungha_jung{
+	margin:10px;
+}
+/*end of hobbies style*/
+
+/*start resume style*/
+#profile_photo{
+	width:200px;
+}
+div#profile{
+	width:20%;
+	float:left;
+	margin-right:1%;
+}
+div#resumebody{
+	width:75%;
+	float:left;
+	margin-top:0;
+}
+.resumedetail{
+	margin-bottom:5%;
+}
+#profile li{
+	padding:10px 10px;
+	font-family: 'Balthazar', serif;
+	font-size:20px;
+}
+/*end of resume style*/

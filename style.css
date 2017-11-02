@@ -29,12 +29,13 @@ h4{
 	margin:15px;
 }
 
-/*nav css*/
+/*nav style*/
 nav#link{
 	background-color:black; 
 	margin-bottom:20px; 
-	padding:10px 0px;
+	padding:10px 10px;
 	position:relative; 
+	width:100%;
 }
 nav#link ul{
 	list-style-type: none;
@@ -101,10 +102,10 @@ nav#link ul li a:hover{
 /*start hobbies style */
 
 #firstguitar{
-	width:410px;
+	width:500px;
 	height:230px;
 	float:left;
-	margin:20px;
+	margin:0px;
 
 }
 div#section1{
@@ -117,7 +118,7 @@ div#section1{
 div#section2{
 	float:right;
 	width:55%;
-	margin:1px;
+	margin-left:1px;
 	
 }
 .section2_1{
@@ -130,11 +131,10 @@ div#section2{
 font-family: 'Anton', sans-serif;
 font-size: 15px;
 padding:5px 0px;
+margin-top:5px;
 }
 .audioplay{
-	margin:10px;
-	margin-right:2%; 
-	margin-bottom:10px;
+	margin:20px;
 }
 
 

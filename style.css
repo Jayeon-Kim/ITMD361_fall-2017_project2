@@ -38,8 +38,9 @@ nav#link{
 	width:100%;
 }
 nav#link ul{
-	list-style-type: none;
-	padding: 0;
+	display:block;
+	list-style-type:none;
+	padding:0;
 	overflow: hidden;
 	margin:1px;
 }
@@ -66,7 +67,6 @@ nav#link ul li a{
 nav#link ul li a:hover{
 	background-color:yellow;
 	color:#000	
-	
 }
 .clear {
 	clear: both;
@@ -105,7 +105,7 @@ nav#link ul li a:hover{
 	width:500px;
 	height:230px;
 	float:left;
-	margin:0px;
+	margin-bottom:10px;
 
 }
 div#section1{
@@ -147,7 +147,12 @@ margin-bottom:15px;
 }
 
 #sungha_jung{
-	margin:10px;
+	margin:5px;
+	border:2px solid black;
+	width:350px;
+	height:350px;
+	float:left;
+	overflow:hidden;
 }
 clear 
 /*end of hobbies style*/
@@ -186,8 +191,6 @@ div#resumebody{
 	}
 .travelplace{
 	position:relative;
-	
-	
 }
 #travelingintro
 {
@@ -195,6 +198,7 @@ div#resumebody{
 }
 /*end of traveling style*/
 
+/*footer style*/
 .footer{
   display:block;	
   margin:0px; 
@@ -204,5 +208,5 @@ div#resumebody{
 }
 .footertext{
   text-align:center;  
-	
 }
+/*footer style*/

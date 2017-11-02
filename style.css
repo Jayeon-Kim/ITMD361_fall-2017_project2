@@ -44,7 +44,7 @@ nav#link ul{
 }
 
 nav#link ul li{
-	float: center; 
+	position:relative;
 	margin: 5px; 
 	padding:5px 5px;  
 }
@@ -196,7 +196,7 @@ div#resumebody{
 /*end of traveling style*/
 
 .footer{
-  display:blcok;	
+  display:block;	
   margin:0px; 
   padding:10px;
   width:100%; 

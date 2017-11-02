@@ -1,4 +1,4 @@
-/*settings for p,h1,h2,h3,h4*/
+/*styles for p,h1,h2,h3,h4*/
 p{
     font-family: 'Balthazar', serif;
 	font-size:20px;
@@ -42,13 +42,12 @@ nav#link ul{
 	list-style-type:none;
 	padding:0;
 	overflow: hidden;
-	margin:1px;
 }
 
 nav#link ul li{
 	position:relative;
-	margin: 5px; 
-	padding:5px 5px;  
+	padding:5px 5px; 
+    margin:5px 0px; 	
 }
 
 nav#link ul li a{
@@ -160,17 +159,17 @@ clear
 /*start resume style*/
 #profile_photo{
 	width:200px;
+	margin:2px;
 }
 div#profile{
-	width:20%;
+	width:25%;
 	float:left;
 	margin:10px;
 }
 div#resumebody{
-	width:75%;
+	width:70%;
 	float:left;
 	margin:0 10px 10px 10px;
-	
 }
 .resumedetail{
 	margin-bottom:5%;
@@ -194,8 +193,8 @@ div#resumebody{
 	position:relative;
 }
 #travelingintro
-{
-	margin-bottom:20px;
+{ 
+  margin-bottom:20px;
 }
 
 /*end of traveling style*/

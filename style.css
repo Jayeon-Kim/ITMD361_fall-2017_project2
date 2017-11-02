@@ -180,13 +180,14 @@ div#resumebody{
 	font-family: 'Balthazar', serif;
 	font-size:20px;
 }
+
 /*end of resume style*/
 
 
 /*start traveling style*/
 .travelphoto{
 	height:300px;
-	margin-right:10px;
+	margin:10px 10px;
 	float:left;
 	}
 .travelplace{
@@ -196,15 +197,19 @@ div#resumebody{
 {
 	margin-bottom:20px;
 }
+
 /*end of traveling style*/
 
 /*footer style*/
 .footer{
   display:block;	
   margin:0px; 
-  padding:10px;
+  padding:5px;
   width:100%; 
   height:20%;
+  background-color:black;
+  clear:both;
+  color:white;
 }
 .footertext{
   text-align:center;  

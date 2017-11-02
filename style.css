@@ -1,6 +1,6 @@
 /*settings for p,h1,h2,h3,h4*/
 p{
-	font-family: 'Balthazar', serif;
+    font-family: 'Balthazar', serif;
 	font-size:20px;
 	margin:15px;
 }
@@ -28,6 +28,16 @@ h4{
 	font-size:15px;
 	margin:15px;
 }
+.footer{
+  display:block;
+  background-color:black;
+  text-align:center;
+  margin:10px; 
+  padding:10px; 
+  
+  
+	
+}
 /*nav css*/
 nav#link{
 	background-color:black; 
@@ -44,8 +54,8 @@ nav#link ul{
 
 nav#link ul li{
 	float: left; 
-	margin: 10px 10px; 
-	padding:0px 20px;  
+	margin: 10px; 
+	padding:10px 10px;  
 	float:center; 
 }
 
@@ -73,6 +83,9 @@ nav#link ul li a:hover{
 }
 /*footer style*/
 #footer{
+	margin:10px;
+	padding:10px; 
+	width:100%; 
 	background-color:black;
 	font-family:'Anton', sans-serif;
 	font-size:15px;  

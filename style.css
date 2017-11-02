@@ -39,15 +39,14 @@ nav#link{
 nav#link ul{
 	list-style-type: none;
 	padding: 0;
-	margin: 0;
 	overflow: hidden;
-	position:center;
+	margin:1px;
 }
 
 nav#link ul li{
-	float: left; 
-	margin: 10px; 
-	padding:10px 10px;  
+	float: center; 
+	margin: 5px; 
+	padding:5px 5px;  
 }
 
 nav#link ul li a{
@@ -62,7 +61,6 @@ nav#link ul li a{
 	border-radius:3px; 
 	color:black;
 	text-align:center;
-
 }
 nav#link ul li a:hover{
 	background-color:yellow;
